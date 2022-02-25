@@ -6,5 +6,5 @@ Here is a link to the website [Euler project](https://projecteuler.net/).
 
 The files are named p_x where x is the number of the problem as it figures in the website.
 
-I use python for this pertucular project. 
+I use python for this particular project. 
 
